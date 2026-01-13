@@ -5,4 +5,4 @@ Pillow>=11.0.0
 
 # 선택사항: ChromeDriver 자동 다운로드 (네트워크 접근 필요)
 # 네트워크 제한이 있다면 CHROMEDRIVER_GUIDE.md 참고하여 수동 설치
-# webdriver-manager==4.0.1
+webdriver-manager==4.0.1
