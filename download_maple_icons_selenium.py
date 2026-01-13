@@ -232,7 +232,7 @@ class MapleIconDownloader:
         Returns:
             dict: 다운로드 결과 통계
         """
-        self.start_browser(headless=False, chromedriver_path=chromedriver_path)
+        self.start_browser(headless=True, chromedriver_path=chromedriver_path)
         
         success_count = 0
         fail_count = 0
